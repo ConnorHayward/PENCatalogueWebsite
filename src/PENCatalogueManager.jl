@@ -7,8 +7,8 @@ using FileIO
 using JSON
 using Glob
 
-include("src/addentry.jl")
-include("src/editentry.jl")
-include("src/util.jl")
+include("addentry.jl")
+include("editentry.jl")
+include("util.jl")
 
 end #module
