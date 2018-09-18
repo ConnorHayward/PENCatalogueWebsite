@@ -41,3 +41,28 @@ Reference number
 
 ### UUID
 Scan barcode
+
+## Maketile
+To create an individual instance of a batch, used in measurements.
+
+### Type
+
+tile / capsule
+
+### Producer
+TuD / ICT / NUVIA
+
+### Material
+PEN8065 / PEN8050 / PS / BC408
+
+### Run Reference
+Reference number for batch. This will be updated to allow automation.
+
+### Geometry
+Standard / capsule
+
+### Size
+Dimensions
+
+### Tile Number
+Reference number for tile
