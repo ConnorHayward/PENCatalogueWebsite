@@ -1,6 +1,6 @@
 # PENCatalogue.jl
 
-## Makebatch()
+# Makebatch()
 
 Function to create a new batch, for addition to the catalogue.
 
@@ -42,7 +42,7 @@ Reference number
 ### UUID
 Scan barcode
 
-## Maketile
+# Maketile
 To create an individual instance of a batch, used in measurements.
 
 ### Type
