@@ -4,10 +4,9 @@ function Add_comment()
     println("UUID:")
     uuid = replace(readline(),'/','-')
     filepath = search_uuid(pwd(),uuid[1:8])
-    ###Search() comes above it###
+
     println("-----------------------------------------------------------------------------------------------------")
-   # filename = path[length(oldfilepath)+1:end-1] #use oldfile/path from before to create sensible names
-  #  filepath = oldfilepath
+
     main_dir = pwd()
     start = search(filepath,uuid[1:8])[1]
     lbl = filepath[start+9:end-5]
@@ -81,11 +80,12 @@ function Add_measurement()
 
     ###Search() comes above it###
     println("-----------------------------------------------------------------------------------------------------")
-   # filename = path[length(oldfilepath)+1:end-1] #use oldfile/path from before to create sensible names
-  #  filepath = oldfilepath
+
     main_dir = pwd()
     start = search(filepath,uuid[1:8])[1]
     lbl = filepath[start+9:end-5]
+
+    println(lbl)
 
   #  cd(filepath)                         #go to where the file is and open it
     cat = open(filepath)                 #open file
