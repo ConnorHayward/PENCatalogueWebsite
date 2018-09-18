@@ -1,4 +1,4 @@
-function Maketile()
+function Maketile()T
 
     print("Type:")
     bt = readline()
@@ -27,7 +27,7 @@ function Maketile()
     print("Tile Number:")
     tn = readline()
 
-    print("Properties Comments:")
+    println("Properties:")
     prop_com = []
 
     lbl = "$bt-$gt-$prod-$rr-$tn"
