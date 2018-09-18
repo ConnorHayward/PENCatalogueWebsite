@@ -23,9 +23,9 @@ function read_entry(uuid::String)
     cat = open(filepath)
     cat_dict = JSON.parse(cat)
 
-    array = collect(values(cat_dict))[1]
+    array = collect(keys(cat_dict))[1]
     for i in eachindex(array)
-        if typeof(array[i]) == Dict{String,Any}
+        if typeof(cat_dict[array[i]]) == Dict{String,Any}
             for key in keys(array[i])
                 if typeof(array[i][key])==Dict{String,Any}
                     for key2 in keys(array[i][key])
@@ -36,7 +36,7 @@ function read_entry(uuid::String)
                 end
             end
         else
-            println(array[i])
+            println(array[i]": ",cat_dict[array[i]])
         end
     end
 end
