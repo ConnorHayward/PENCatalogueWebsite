@@ -9,4 +9,4 @@ include("addentry.jl")
 include("editentry.jl")
 include("util.jl")
 
-end module
+end #module
