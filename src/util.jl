@@ -10,13 +10,37 @@ function search_uuid(catalogue_dir::String, uuid::String; levels::Int=10)
         end
         i += 1
         if i == levels
-            return "could not be found"
+            println("could not be found")
         end
     end
 end
 
 export search_uuid
 
+function read_entry(uuid::String)
+
+    filepath = search_uuid(pwd(),uuid)
+    cat = open(filepath)
+    cat_dict = JSON.parse(cat)
+
+    array = collect(values(cat_dict))[1]
+    for i in eachindex(array)
+        if typeof(array[i]) == Dict{String,Any}
+            for key in keys(array[i])
+                if typeof(array[i][key])==Dict{String,Any}
+                    for key2 in keys(array[i][key])
+                        println(key2*": ", array[i][key][key2])
+                    end
+                else
+                    println(key*": ", array[i][key])
+                end
+            end
+        else
+            println(array[i])
+        end
+end
+
+export read_entry
 #################################################################################
 ###Felixs input function, used instead of readline()###
 #################################################################################
