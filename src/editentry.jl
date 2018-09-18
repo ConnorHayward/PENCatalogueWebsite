@@ -1,20 +1,17 @@
 function Add_comment()
-###Search comes above it###
+    i=0
 
     println("UUID:")
     uuid = replace(readline(),'/','-')
     filepath = search_uuid(pwd(),uuid[1:8])
-
     println("-----------------------------------------------------------------------------------------------------")
 
     main_dir = pwd()
     start = search(filepath,uuid[1:8])[1]
-    lbl = filepath[start+9:end-5]
-
+    lbl = filepath[start+8:end-5]
     cat = open(filepath)
     cat_dict = JSON.parse(cat)
 
-    println(cat_dict)
     println("-----------------------------------------------------------------------------------------------------")
 
     i = 1
@@ -44,7 +41,9 @@ function Add_comment()
 
     elseif answer == Int(float(choice_array[answer][1:1]))   #since general comments and properties comments are in diffent
         sub_dict = choice_array[answer][3:end]               #subdictionaries here is a way to distinguish them
-        if !haskey(cat_dict[lbl][sub_dict])
+           println(sub_dict)
+        println(lbl)
+        if !haskey(cat_dict[lbl],sub_dict)
             println("Err")
         end
                 if haskey(cat_dict[lbl],sub_dict)
@@ -53,7 +52,7 @@ function Add_comment()
                       add_comment = readline() #insert comment you want to be added to the array
                       println("-----------------------------------------------------------------------------------------------------")
                       push!(cat_dict[lbl][sub_dict], add_comment) #append new comment to array
-                          open(filename, "w") do f
+                          open(filepath, "w") do f
                           JSON.print(f, cat_dict)#overwrite old file with new one
                           end
                 elseif !haskey(cat_dict[lbl],sub_dict)
@@ -63,7 +62,7 @@ function Add_comment()
                       println("Please type the comment you want to add to " * sub_dict * ":")
                       add_comment = readline() #insert comment you want to be added to the array
                       push!(cat_dict[lbl][step][sub_dict], add_comment) #append new comment to array
-                            open(filename, "w") do f
+                            open(filepath, "w") do f
                             JSON.print(f, cat_dict)#overwrite old file with new one
                             end
         end
@@ -83,7 +82,7 @@ function Add_measurement()
 
     main_dir = pwd()
     start = search(filepath,uuid[1:8])[1]
-    lbl = filepath[start+9:end-5]
+    lbl = filepath[start+8:end-5]
 
     println(lbl)
 
@@ -121,7 +120,7 @@ function Add_measurement()
     sub_dict[add_key] = add_value #asign key to value
     println("-----------------------------------------------------------------------------------------------------")
 
-    open(filename, "w") do f
+    open(filepath, "w") do f
       JSON.print(f, cat_dict)   #overwrite old file with new file
     end
 end
