@@ -1,6 +1,6 @@
 __precompile__(true)
 
-module PENCatalogue
+module PENCatalogueManager
 
 ###Creating files for batches and tiles####
 using FileIO
