@@ -38,6 +38,7 @@ function read_entry(uuid::String)
         else
             println(array[i])
         end
+    end
 end
 
 export read_entry
