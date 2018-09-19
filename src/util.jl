@@ -24,7 +24,7 @@ function read_entry()
     filepath = search_uuid(pwd(),uuid)
     cat = open(filepath)
     cat_dict = JSON.parse(cat)
-
+println("-----------------------------------------------------------------------------------------------------")
     for key in keys(cat_dict)
 
         values_dict = cat_dict[key]
@@ -44,6 +44,7 @@ function read_entry()
 
                 end
             elseif typeof(values_dict[key1]) == Array{Any,1}
+                println("-----------------------------------------------------------------------------------------------------")
                 println(key1*": ")
                 for value in values(values_dict[key1])
                     println(value)

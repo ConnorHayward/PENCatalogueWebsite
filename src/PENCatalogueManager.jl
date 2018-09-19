@@ -2,7 +2,21 @@ __precompile__(true)
 
 module PENCatalogueManager
 
-###Creating files for batches and tiles####
+### Check for required modules.
+
+if !isdir(Pkg.dir("Glob"))
+    Pkg.add("Glob")
+end
+
+if !isdir(Pkg.dir("JSON"))
+    Pkg.add("JSON")
+end
+
+if !isdir(Pkg.dir("FileIO"))
+    Pkg.add("FileIO")
+end
+
+### Creating files for batches and tiles####
 using FileIO
 using JSON
 using Glob

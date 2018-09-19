@@ -1,4 +1,4 @@
-function Add_comment()
+function add_comment()
     i=0
 
     println("UUID:")
@@ -69,9 +69,9 @@ function Add_comment()
     end
 end
 
-export Add_comment
-
-function Add_measurement()
+export add_comment
+## Flag
+function add_measurement()
 
     println("UUID:")
     uuid = replace(readline(),'/','-')
@@ -125,4 +125,4 @@ function Add_measurement()
     end
 end
 
-export Add_measurement
+export add_measurement

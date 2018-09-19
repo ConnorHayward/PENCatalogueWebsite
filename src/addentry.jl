@@ -1,6 +1,5 @@
-function Maketile()
+function make_tile()
 
-    print("Type:")
     bt = "Tile"
 
     print("Producer:")
@@ -56,13 +55,13 @@ function Maketile()
 
     stringdata = JSON.json(export_dict)
     open(filename, "w") do f
-        write(f, stringdata)
+        write(f, stringdata);
     end
 end
 
-export Maketile
+export make_tile
 
-function Makebatch()
+function make_batch()
 
     lbl = ""
     uuid = ""
@@ -136,7 +135,7 @@ function Makebatch()
         itemp = readline()
         print("Zone4:")
         z4 = readline()
-        print("Zone3:")
+        printprintln("-----------------------------------------------------------------------------------------------------")("Zone3:")
         z3 = readline()
         print("Zone2:")
         z2 = readline()
@@ -213,10 +212,10 @@ function Makebatch()
 
     stringdata = JSON.json(export_dict)
     open(filename, "w") do f
-        write(f, stringdata)
+        write(f, stringdata);
     end
 
 
 end
 
-export Makebatch
+export make_batch
