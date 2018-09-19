@@ -1,8 +1,7 @@
 function Maketile()
 
     print("Type:")
-    bt = readline()
-    bt = lowercase(bt)
+    bt = "Tile"
 
     print("Producer:")
     prod = readline()
