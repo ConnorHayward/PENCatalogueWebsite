@@ -17,8 +17,10 @@ end
 
 export search_uuid
 
-function read_entry(uuid::String)
+function read_entry()
 
+    println("Please Scan Barcode:")
+    uuid = uuid = replace(readline(),'/','-')[1:8]
     filepath = search_uuid(pwd(),uuid)
     cat = open(filepath)
     cat_dict = JSON.parse(cat)
