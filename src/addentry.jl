@@ -1,4 +1,4 @@
-function Maketile()T
+function Maketile()
 
     print("Type:")
     bt = readline()
@@ -35,15 +35,15 @@ function Maketile()T
     print("UUID:")
     uuid = replace(readline(),'/','-')
 
-    dict = Dict("Batch Type"=>bt, "label"=>lbl,"Run Reference"=>rr,"General Comments"=>gen_com,"UUID"=>uuid, "Tile Number"=>tn,
+    dict = Dict("Batch Type"=>bt, "Label"=>lbl,"Run Reference"=>rr,"General Comments"=>gen_com,"UUID"=>uuid, "Tile Number"=>tn,
 
-            "Properties"=>Dict("Geometry"=>geo,"Size"=>sz,"material"=>gt,
-                "date"=>"","process"=>"","Properties Comments"=>prop_com),
+            "Properties"=>Dict("Geometry"=>geo,"Size"=>sz,"Material"=>gt,
+                "Date"=>"","Process"=>"","Properties Comments"=>prop_com),
 
-            "Measurements"=>Dict("wavelength"=> Dict()
-            , "peak wavelength"=> Dict()
-            , "light output"=> Dict()
-            , "absorbed at 430nm"=>Dict()))
+            "Measurements"=>Dict("Wavelength"=> Dict()
+            , "Peak Wavelength"=> Dict()
+            , "Light Output"=> Dict()
+            , "Absorbed at 430nm"=>Dict()))
 
     target_dir = "catalogue/$bt/$gt/$prod/$rr/Tiles/$tn"
 
@@ -86,10 +86,10 @@ function Makebatch()
         lbl = "gran-$manlbl-$gt-$bn"
         print("UUID:")
         uuid = replace(readline(),'/','-')
-        dict = Dict("Type"=>typ,"Product"=>bt,"label"=>lbl,"UUID"=>uuid,"Product"=>gt,"Manufacturer"=>man,"Batch Number"=>bn)
+        dict = Dict("Type"=>typ,"Product"=>bt,"Label"=>lbl,"UUID"=>uuid,"Product"=>gt,"Manufacturer"=>man,"Batch Number"=>bn)
         target_dir = "catalogue/$typ/$bt/$gt/$bn/"
 
-    elseif bt == "raw pen"
+    elseif bt == "raw_pen"
         bt = "rawpen"
         print("Mass:")
         m = readline()
@@ -102,8 +102,8 @@ function Makebatch()
         lbl = lowercase(bt)*"-$man-$bn"
         print("UUID:")
         uuid = replace(readline(),'/','-')
-        dict = Dict("Type"=>typ,"Product"=>bt,"label"=>lbl, "UUID"=>uuid,"mass"=>m,
-                "Creation"=>Dict("date"=>date,"manufacturer"=>man))
+        dict = Dict("Type"=>typ,"Product"=>bt,"Label"=>lbl, "UUID"=>uuid,"Mass"=>m,
+                "Creation"=>Dict("Date"=>date,"Manufacturer"=>man))
         target_dir = "catalogue/$typ/$bt/$gt/$bn/"
 
     elseif bt == "tile"
