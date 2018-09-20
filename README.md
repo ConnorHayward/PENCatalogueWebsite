@@ -47,7 +47,7 @@ To create an individual instance of a batch, used in measurements.
 
 ### Type
 
-tile / capsule
+tile
 
 ### Producer
 TuD / ICT / NUVIA
