@@ -89,11 +89,9 @@ function input(prompt::String=""; add_strings=[] , format="String")::String
         bool = false
         while bool == false
             temp = readline()
-<<<<<<< HEAD
+
             if typeof(try Int(float(temp))catch end) == Int64
-=======
-            if typeof(try Int(float(temp)) end) == Int64
->>>>>>> 2f059ee07f42d59ee9590d4bc199aca2affdea86
+
                 bool = true
                 return temp
             else
@@ -104,11 +102,9 @@ function input(prompt::String=""; add_strings=[] , format="String")::String
         bool = false
         while bool == false
             temp = readline()
-<<<<<<< HEAD
+
             if typeof(try float(temp) catch end) == Float64
-=======
-            if typeof(try float(temp) end) == Float64
->>>>>>> 2f059ee07f42d59ee9590d4bc199aca2affdea86
+
                 bool = true
                 return temp
             else
