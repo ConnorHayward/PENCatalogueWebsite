@@ -31,13 +31,13 @@ function make_tile()
     lbl = "$bt-$gt-$prod-$rr-$tn"
     uuid = ""
     print("UUID:")
-<<<<<<< HEAD
+
     uuid = replace(readline(),'/'=>'-')
 
     println(uuid)
-=======
+
     uuid = replace(readline(),'/','-')
->>>>>>> 2f059ee07f42d59ee9590d4bc199aca2affdea86
+
 
     dict = Dict("Batch Type"=>bt, "Label"=>lbl,"Run Reference"=>rr,"General Comments"=>gen_com,"UUID"=>uuid, "Tile Number"=>tn,
 
