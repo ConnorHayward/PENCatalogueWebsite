@@ -1,9 +1,12 @@
 using Genie.Router
 using BooksController
+using HomeController
 
-route("/") do
-  serve_static_file("/welcome.html")
-end
+route("/",HomeController.home)
+
+# route("/") do
+#   serve_static_file("/welcome.html")
+# end
 
 route("/hello") do
   "Welcome to Genie!"
