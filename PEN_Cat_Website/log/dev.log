@@ -1,0 +1,344 @@
+2019-02-06 09:45:14:DEBUG:Main:Web server running at 127.0.0.1:8000
+2019-02-06 09:45:33:DEBUG:Main:[2019-02-06T09:45:33.808] -- :/ -- Done
+
+
+2019-02-06 09:47:40:DEBUG:Main:[2019-02-06T09:47:40.362] -- :/ -- Done
+
+
+2019-02-06 09:47:50:DEBUG:Main:Web server running at 127.0.0.1:8000
+2019-02-06 09:48:02:DEBUG:Main:[2019-02-06T09:48:02.309] -- :/ -- Done
+
+
+2019-02-06 09:49:37:DEBUG:Main:[2019-02-06T09:49:37.685] -- :/ -- Done
+
+
+2019-02-06 09:54:46:DEBUG:Main:Web server running at 127.0.0.1:8000
+2019-02-06 09:54:49:DEBUG:Main:[2019-02-06T09:54:49.322] -- :/ -- Done
+
+
+2019-02-06 09:54:49:DEBUG:Main:[2019-02-06T09:54:49.887] -- :/favicon.ico -- Done
+
+
+2019-02-06 09:55:08:DEBUG:Main:Web server running at 127.0.0.1:8000
+2019-02-06 09:55:12:DEBUG:Main:[2019-02-06T09:55:12.443] -- :/ -- Done
+
+
+2019-02-06 09:57:46:WARN:Main:SECRET_TOKEN not configured - please make sure that you have a valid secrets.jl file.
+          You can generate a new secrets.jl file with a random SECRET_TOKEN using Genie.REPL.write_secrets_file()
+          or use the included /app/config/secrets.jl.example file as a model.
+2019-02-06 09:57:58:DEBUG:Main:Web server running at 127.0.0.1:8000
+2019-02-06 09:58:14:DEBUG:Main:[2019-02-06T09:58:14.408] -- :/ -- Done
+
+
+2019-02-06 10:07:17:DEBUG:Main:[2019-02-06T10:07:17.203] -- :/ -- Done
+
+
+2019-02-06 10:12:06:WARN:Main:File already exists, app\resources\books\BooksController.jl - skipping
+2019-02-06 10:12:06:DEBUG:Main:New controller created at app\resources\books\BooksController.jl
+2019-02-06 10:13:15:DEBUG:Main:New controller created at app\resources\books\BooksController.jl
+2019-02-06 10:15:37:DEBUG:Main:[2019-02-06T10:15:37.358] -- :/bgbooks -- Done
+
+
+2019-02-06 10:21:08:DEBUG:Main:[2019-02-06T10:21:08.676] -- :/ -- Done
+
+
+2019-02-06 10:21:12:DEBUG:Main:[2019-02-06T10:21:12.652] -- :/bgbooks -- Done
+
+
+2019-02-06 10:21:46:DEBUG:Main:[2019-02-06T10:21:46.931] -- :/ -- Done
+
+
+2019-02-06 10:22:39:DEBUG:Main:[2019-02-06T10:22:39.87] -- :/bgbooks -- Done
+
+
+2019-02-06 10:22:51:DEBUG:Main:[2019-02-06T10:22:51.149] -- :/bgbooks -- Done
+
+
+2019-02-06 10:22:54:DEBUG:Main:[2019-02-06T10:22:54.328] -- :/ -- Done
+
+
+2019-02-06 10:22:56:DEBUG:Main:[2019-02-06T10:22:56.796] -- :/bgbooks -- Done
+
+
+2019-02-06 10:22:58:DEBUG:Main:[2019-02-06T10:22:58.498] -- :/ -- Done
+
+
+2019-02-06 10:23:13:DEBUG:Main:[2019-02-06T10:23:13.394] -- :/ -- Done
+
+
+2019-02-06 10:23:15:DEBUG:Main:[2019-02-06T10:23:15.902] -- :/bgbooks -- Done
+
+
+2019-02-06 10:23:17:DEBUG:Main:[2019-02-06T10:23:17.921] -- :/ -- Done
+
+
+2019-02-06 11:08:52:DEBUG:Main:[2019-02-06T11:08:52.089] -- :/bgbooks -- Done
+
+
+2019-02-06 11:17:28:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:17:29:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:17:29:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:17:32:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:17:32:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\layouts\app.jl.html build build\FlaxViews\ba4f7c812446ea767e7af55563f4ef63b7cae3fb.jl is stale
+2019-02-06 11:17:32:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\layouts\app.jl.html
+2019-02-06 11:17:34:DEBUG:Main:[2019-02-06T11:17:34.455] -- :/bgbooks -- Done
+
+
+2019-02-06 11:17:46:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:17:46:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:17:46:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:17:47:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:17:47:DEBUG:Main:[2019-02-06T11:17:47.158] -- :/bgbooks -- Done
+
+
+2019-02-06 11:18:11:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:18:11:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:18:11:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:18:12:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:18:12:DEBUG:Main:[2019-02-06T11:18:12.317] -- :/bgbooks -- Done
+
+
+2019-02-06 11:18:20:DEBUG:Main:[2019-02-06T11:18:20.774] -- :/ -- Done
+
+
+2019-02-06 11:18:32:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:18:32:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:18:32:DEBUG:Main:[2019-02-06T11:18:32.548] -- :/bgbooks -- Done
+
+
+2019-02-06 11:18:47:DEBUG:Main:[2019-02-06T11:18:47.043] -- :/ -- Done
+
+
+2019-02-06 11:19:05:DEBUG:Main:[2019-02-06T11:19:05.487] -- :/home -- Done
+
+
+2019-02-06 11:19:15:DEBUG:Main:[2019-02-06T11:19:15.816] -- :/ -- Done
+
+
+2019-02-06 11:19:18:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:19:18:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:19:18:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:19:18:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:19:19:DEBUG:Main:[2019-02-06T11:19:19.003] -- :/bgbooks -- Done
+
+
+2019-02-06 11:19:25:DEBUG:Main:[2019-02-06T11:19:25.617] -- :/ -- Done
+
+
+2019-02-06 11:28:30:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:28:30:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:28:30:DEBUG:Main:[2019-02-06T11:28:30.888] -- :/bgbooks -- Done
+
+
+2019-02-06 11:30:31:DEBUG:Main:[2019-02-06T11:30:31.801] -- :/ -- Done
+
+
+2019-02-06 11:30:35:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:30:35:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:30:35:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:30:38:DEBUG:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: invalid keyword argument name \"(http - equiv)\""))
+2019-02-06 11:30:38:DEBUG:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Flax.jl:262
+2019-02-06 11:30:38:WARN:Main:Failed invoking controller
+2019-02-06 11:30:38:WARN:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: invalid keyword argument name \"(http - equiv)\""))
+2019-02-06 11:30:38:WARN:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Router.jl:479
+2019-02-06 11:30:38:CRITICAL:Main:Distributed.RemoteException(1, CapturedException(LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: invalid keyword argument name \"(http - equiv)\"")), Any[(include at boot.jl:326 [inlined], 1), (include_relative(::Module, ::String) at loading.jl:1038, 1), (include at sysimg.jl:29 [inlined], 1), (include at Flax.jl:4 [inlined], 1), (#_include_template#4(::Bool, ::String, ::Function, ::String) at Flax.jl:216, 1), (#_include_template at none:0 [inlined], 1), (macro expansion at util.jl:156 [inlined], 1), (#include_template#3(::Bool, ::String, ::Function, ::String) at Flax.jl:165, 1), (include_template at Flax.jl:163 [inlined], 1), (#render_html#5(::Pairs{Symbol,Array{Book,1},Tuple{Symbol},NamedTuple{(:books,),Tuple{Array{Book,1}}}}, ::Function, ::Symbol, ::Symbol, ::Symbol) at Flax.jl:257, 1), (#render_html at none:0 [inlined], 1), (#html#2 at Renderer.jl:56 [inlined], 1), (#html at none:0 [inlined], 1), (#respond_with_html#4 at Renderer.jl:69 [inlined], 1), (#respond_with_html at none:0 [inlined], 2), (billgatesbooks() at BooksController.jl:30, 1), (#invokelatest#1 at essentials.jl:742 [inlined], 1), (invokelatest at essentials.jl:741 [inlined], 1), (match_routes(::Request, ::Response, ::Nothing, ::Params{Any}) at Router.jl:471, 1), (route_request(::Request, ::Response, ::IPv4) at Router.jl:98, 1), (handle_request(::Request, ::Response, ::IPv4) at AppServer.jl:88, 1), (handle_request at AppServer.jl:87 [inlined], 1), (#12 at macros.jl:108 [inlined], 1), (run_work_thunk(::##12#15{Request,Response}, ::Bool) at process_messages.jl:56, 1), (#remotecall_fetch#148(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::LocalProcess) at remotecall.jl:364, 1), (remotecall_fetch(::Function, ::LocalProcess) at remotecall.jl:364, 1), (#remotecall_fetch#152(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at remotecall.jl:406, 1), (remotecall_fetch(::Function, ::Int64) at remotecall.jl:406, 1), (setup_http_handler(::Request, ::Response) at AppServer.jl:52, 1), (#2 at AppServer.jl:24 [inlined], 1), (handle at Handlers.jl:35 [inlined], 1), (#7 at Servers.jl:163 [inlined], 1), (handle_request(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:510, 1), (handle_stream(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:486, 1), ((::##55#56{Bool,##7#11{Server{http,HandlerFunction{##2#7}}},Transaction{TCPSocket},Stream{Request,Transaction{TCPSocket}}})() at task.jl:259, 1)]))
+2019-02-06 11:30:38:CRITICAL:Main:
+Stacktrace:
+ [1] #remotecall_fetch#148(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:365
+ [2] remotecall_fetch(::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:364
+ [3] #remotecall_fetch#152(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [4] remotecall_fetch(::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [5] setup_http_handler(::HTTP.Messages.Request, ::HTTP.Messages.Response) at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:52
+ [6] #2 at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:24 [inlined]
+ [7] handle at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Handlers.jl:35 [inlined]
+ [8] #7 at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:163 [inlined]
+ [9] handle_request(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:510
+ [10] handle_stream(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:486
+ [11] (::getfield(HTTP.Servers, Symbol("##55#56")){Bool,getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}},HTTP.ConnectionPool.Transaction{Sockets.TCPSocket},HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}})() at .\task.jl:259
+2019-02-06 11:30:38:CRITICAL:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:61
+2019-02-06 11:30:48:DEBUG:Main:[2019-02-06T11:30:48.586] -- :/ -- Done
+
+
+2019-02-06 11:31:49:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:31:49:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:31:49:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:31:49:ERROR:Main:ErrorException("function skip_element does not accept keyword arguments") at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Flax.jl:222
+2019-02-06 11:31:49:DEBUG:Main:MethodError(convert, (String, nothing), 0x000000000000646c)
+2019-02-06 11:31:49:DEBUG:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Flax.jl:262
+2019-02-06 11:31:49:WARN:Main:Failed invoking controller
+2019-02-06 11:31:49:WARN:Main:MethodError(convert, (String, nothing), 0x000000000000646c)
+2019-02-06 11:31:49:WARN:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Router.jl:479
+2019-02-06 11:31:49:CRITICAL:Main:Distributed.RemoteException(1, CapturedException(MethodError(convert, (String, nothing), 0x000000000000646c), Any[(#_include_template#4(::Bool, ::String, ::Function, ::String) at Flax.jl:222, 1), (#_include_template at none:0 [inlined], 1), (macro expansion at util.jl:156 [inlined], 1), (#include_template#3(::Bool, ::String, ::Function, ::String) at Flax.jl:165, 1), (include_template at Flax.jl:163 [inlined], 1), (#render_html#5(::Pairs{Symbol,Array{Book,1},Tuple{Symbol},NamedTuple{(:books,),Tuple{Array{Book,1}}}}, ::Function, ::Symbol, ::Symbol, ::Symbol) at Flax.jl:257, 1), (#render_html at none:0 [inlined], 1), (#html#2 at Renderer.jl:56 [inlined], 1), (#html at none:0 [inlined], 1), (#respond_with_html#4 at Renderer.jl:69 [inlined], 1), (#respond_with_html at none:0 [inlined], 2), (billgatesbooks() at BooksController.jl:30, 1), (#invokelatest#1 at essentials.jl:742 [inlined], 1), (invokelatest at essentials.jl:741 [inlined], 1), (match_routes(::Request, ::Response, ::Nothing, ::Params{Any}) at Router.jl:471, 1), (route_request(::Request, ::Response, ::IPv4) at Router.jl:98, 1), (handle_request(::Request, ::Response, ::IPv4) at AppServer.jl:88, 1), (handle_request at AppServer.jl:87 [inlined], 1), (#12 at macros.jl:108 [inlined], 1), (run_work_thunk(::##12#15{Request,Response}, ::Bool) at process_messages.jl:56, 1), (#remotecall_fetch#148(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::LocalProcess) at remotecall.jl:364, 1), (remotecall_fetch(::Function, ::LocalProcess) at remotecall.jl:364, 1), (#remotecall_fetch#152(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at remotecall.jl:406, 1), (remotecall_fetch(::Function, ::Int64) at remotecall.jl:406, 1), (setup_http_handler(::Request, ::Response) at AppServer.jl:52, 1), (#2 at AppServer.jl:24 [inlined], 1), (handle at Handlers.jl:35 [inlined], 1), (#7 at Servers.jl:163 [inlined], 1), (handle_request(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:510, 1), (handle_stream(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:486, 1), ((::##55#56{Bool,##7#11{Server{http,HandlerFunction{##2#7}}},Transaction{TCPSocket},Stream{Request,Transaction{TCPSocket}}})() at task.jl:259, 1)]))
+2019-02-06 11:31:49:CRITICAL:Main:
+Stacktrace:
+ [1] #remotecall_fetch#148(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:365
+ [2] remotecall_fetch(::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:364
+ [3] #remotecall_fetch#152(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [4] remotecall_fetch(::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [5] setup_http_handler(::HTTP.Messages.Request, ::HTTP.Messages.Response) at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:52
+ [6] #2 at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:24 [inlined]
+ [7] handle at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Handlers.jl:35 [inlined]
+ [8] #7 at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:163 [inlined]
+ [9] handle_request(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:510
+ [10] handle_stream(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:486
+ [11] (::getfield(HTTP.Servers, Symbol("##55#56")){Bool,getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}},HTTP.ConnectionPool.Transaction{Sockets.TCPSocket},HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}})() at .\task.jl:259
+2019-02-06 11:31:49:CRITICAL:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:61
+2019-02-06 11:31:52:DEBUG:Main:[2019-02-06T11:31:52.795] -- :/ -- Done
+
+
+2019-02-06 11:32:09:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:32:09:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:32:09:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:32:09:ERROR:Main:ErrorException("function skip_element does not accept keyword arguments") at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Flax.jl:222
+2019-02-06 11:32:09:DEBUG:Main:MethodError(convert, (String, nothing), 0x000000000000647d)
+2019-02-06 11:32:09:DEBUG:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Flax.jl:262
+2019-02-06 11:32:09:WARN:Main:Failed invoking controller
+2019-02-06 11:32:09:WARN:Main:MethodError(convert, (String, nothing), 0x000000000000647d)
+2019-02-06 11:32:09:WARN:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Router.jl:479
+2019-02-06 11:32:09:CRITICAL:Main:Distributed.RemoteException(1, CapturedException(MethodError(convert, (String, nothing), 0x000000000000647d), Any[(#_include_template#4(::Bool, ::String, ::Function, ::String) at Flax.jl:222, 1), (#_include_template at none:0 [inlined], 1), (macro expansion at util.jl:156 [inlined], 1), (#include_template#3(::Bool, ::String, ::Function, ::String) at Flax.jl:165, 1), (include_template at Flax.jl:163 [inlined], 1), (#render_html#5(::Pairs{Symbol,Array{Book,1},Tuple{Symbol},NamedTuple{(:books,),Tuple{Array{Book,1}}}}, ::Function, ::Symbol, ::Symbol, ::Symbol) at Flax.jl:257, 1), (#render_html at none:0 [inlined], 1), (#html#2 at Renderer.jl:56 [inlined], 1), (#html at none:0 [inlined], 1), (#respond_with_html#4 at Renderer.jl:69 [inlined], 1), (#respond_with_html at none:0 [inlined], 2), (billgatesbooks() at BooksController.jl:30, 1), (#invokelatest#1 at essentials.jl:742 [inlined], 1), (invokelatest at essentials.jl:741 [inlined], 1), (match_routes(::Request, ::Response, ::Nothing, ::Params{Any}) at Router.jl:471, 1), (route_request(::Request, ::Response, ::IPv4) at Router.jl:98, 1), (handle_request(::Request, ::Response, ::IPv4) at AppServer.jl:88, 1), (handle_request at AppServer.jl:87 [inlined], 1), (#12 at macros.jl:108 [inlined], 1), (run_work_thunk(::##12#15{Request,Response}, ::Bool) at process_messages.jl:56, 1), (#remotecall_fetch#148(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::LocalProcess) at remotecall.jl:364, 1), (remotecall_fetch(::Function, ::LocalProcess) at remotecall.jl:364, 1), (#remotecall_fetch#152(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at remotecall.jl:406, 1), (remotecall_fetch(::Function, ::Int64) at remotecall.jl:406, 1), (setup_http_handler(::Request, ::Response) at AppServer.jl:52, 1), (#2 at AppServer.jl:24 [inlined], 1), (handle at Handlers.jl:35 [inlined], 1), (#7 at Servers.jl:163 [inlined], 1), (handle_request(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:510, 1), (handle_stream(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:486, 1), ((::##55#56{Bool,##7#11{Server{http,HandlerFunction{##2#7}}},Transaction{TCPSocket},Stream{Request,Transaction{TCPSocket}}})() at task.jl:259, 1)]))
+2019-02-06 11:32:10:CRITICAL:Main:
+Stacktrace:
+ [1] #remotecall_fetch#148(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:365
+ [2] remotecall_fetch(::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:364
+ [3] #remotecall_fetch#152(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [4] remotecall_fetch(::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [5] setup_http_handler(::HTTP.Messages.Request, ::HTTP.Messages.Response) at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:52
+ [6] #2 at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:24 [inlined]
+ [7] handle at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Handlers.jl:35 [inlined]
+ [8] #7 at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:163 [inlined]
+ [9] handle_request(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:510
+ [10] handle_stream(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:486
+ [11] (::getfield(HTTP.Servers, Symbol("##55#56")){Bool,getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}},HTTP.ConnectionPool.Transaction{Sockets.TCPSocket},HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}})() at .\task.jl:259
+2019-02-06 11:32:10:CRITICAL:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:61
+2019-02-06 11:32:13:DEBUG:Main:[2019-02-06T11:32:13.575] -- :/ -- Done
+
+
+2019-02-06 11:32:29:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:32:29:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:32:29:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:32:30:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:32:30:DEBUG:Main:[2019-02-06T11:32:30.242] -- :/bgbooks -- Done
+
+
+2019-02-06 11:32:32:DEBUG:Main:[2019-02-06T11:32:32.928] -- :/ -- Done
+
+
+2019-02-06 11:34:13:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:34:13:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:34:13:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:34:13:DEBUG:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[Flax.h1() do\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 7\n    [\"\$(\"Bill Gates' top \")\$(length(Genie.Renderer.Flax.task_local_storage(:__vars)[:books]))\$(\" recommended books\")\"]\nend; Flax.ul() do\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 11\n    [begin\n    # C:\\Users\\ill_f\\.julia\\packages\\Genie\\MBZA6\\src\\Flax.jl, line 607\n    Genie.Renderer.Flax.isempty(Genie.Renderer.Flax.task_local_storage(:__vars)[:books]) && return \"\"\n    # C:\\Users\\ill_f\\.julia\\packages\\Genie\\MBZA6\\src\\Flax.jl, line 608\n    Genie.Renderer.Flax.mapreduce(Genie.Renderer.Flax.*, Genie.Renderer.Flax.task_local_storage(:__vars)[:books]) do #65#_s\n        # C:\\Users\\ill_f\\.julia\\packages\\Genie\\MBZA6\\src\\Flax.jl, line 609\n        Genie.Renderer.Flax.*((#66#book,) -> begin\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 14\n    \"\$(\"<li>\")\$(#66#book.title)\$(\" by \")\$(#66#book.author)\"\nend(#65#_s), \"\n\")\n    end\nend]\nend; Flax.a(href = \"localhost:8000/home\") do\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 20\n    [\"Home\"]\nend; i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 27\n    println(\"\$i\")\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    i += 1\nend]\""))
+2019-02-06 11:34:13:DEBUG:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Flax.jl:262
+2019-02-06 11:34:13:WARN:Main:Failed invoking controller
+2019-02-06 11:34:13:WARN:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[Flax.h1() do\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 7\n    [\"\$(\"Bill Gates' top \")\$(length(Genie.Renderer.Flax.task_local_storage(:__vars)[:books]))\$(\" recommended books\")\"]\nend; Flax.ul() do\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 11\n    [begin\n    # C:\\Users\\ill_f\\.julia\\packages\\Genie\\MBZA6\\src\\Flax.jl, line 607\n    Genie.Renderer.Flax.isempty(Genie.Renderer.Flax.task_local_storage(:__vars)[:books]) && return \"\"\n    # C:\\Users\\ill_f\\.julia\\packages\\Genie\\MBZA6\\src\\Flax.jl, line 608\n    Genie.Renderer.Flax.mapreduce(Genie.Renderer.Flax.*, Genie.Renderer.Flax.task_local_storage(:__vars)[:books]) do #65#_s\n        # C:\\Users\\ill_f\\.julia\\packages\\Genie\\MBZA6\\src\\Flax.jl, line 609\n        Genie.Renderer.Flax.*((#66#book,) -> begin\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 14\n    \"\$(\"<li>\")\$(#66#book.title)\$(\" by \")\$(#66#book.author)\"\nend(#65#_s), \"\n\")\n    end\nend]\nend; Flax.a(href = \"localhost:8000/home\") do\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 20\n    [\"Home\"]\nend; i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 27\n    println(\"\$i\")\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    i += 1\nend]\""))
+2019-02-06 11:34:13:WARN:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Router.jl:479
+2019-02-06 11:34:13:CRITICAL:Main:Distributed.RemoteException(1, CapturedException(LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[Flax.h1() do\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 7\n    [\"\$(\"Bill Gates' top \")\$(length(Genie.Renderer.Flax.task_local_storage(:__vars)[:books]))\$(\" recommended books\")\"]\nend; Flax.ul() do\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 11\n    [begin\n    # C:\\Users\\ill_f\\.julia\\packages\\Genie\\MBZA6\\src\\Flax.jl, line 607\n    Genie.Renderer.Flax.isempty(Genie.Renderer.Flax.task_local_storage(:__vars)[:books]) && return \"\"\n    # C:\\Users\\ill_f\\.julia\\packages\\Genie\\MBZA6\\src\\Flax.jl, line 608\n    Genie.Renderer.Flax.mapreduce(Genie.Renderer.Flax.*, Genie.Renderer.Flax.task_local_storage(:__vars)[:books]) do #65#_s\n        # C:\\Users\\ill_f\\.julia\\packages\\Genie\\MBZA6\\src\\Flax.jl, line 609\n        Genie.Renderer.Flax.*((#66#book,) -> begin\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 14\n    \"\$(\"<li>\")\$(#66#book.title)\$(\" by \")\$(#66#book.author)\"\nend(#65#_s), \"\n\")\n    end\nend]\nend; Flax.a(href = \"localhost:8000/home\") do\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 20\n    [\"Home\"]\nend; i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 27\n    println(\"\$i\")\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    i += 1\nend]\"")), Any[(include at boot.jl:326 [inlined], 1), (include_relative(::Module, ::String) at loading.jl:1038, 1), (include at sysimg.jl:29 [inlined], 1), (include at Flax.jl:4 [inlined], 1), (#_include_template#4(::Bool, ::String, ::Function, ::String) at Flax.jl:216, 1), (#_include_template at none:0 [inlined], 1), (macro expansion at util.jl:156 [inlined], 1), (#include_template#3(::Bool, ::String, ::Function, ::String) at Flax.jl:165, 1), (include_template at Flax.jl:163 [inlined], 1), (#render_html#5(::Pairs{Symbol,Array{Book,1},Tuple{Symbol},NamedTuple{(:books,),Tuple{Array{Book,1}}}}, ::Function, ::Symbol, ::Symbol, ::Symbol) at Flax.jl:257, 1), (#render_html at none:0 [inlined], 1), (#html#2 at Renderer.jl:56 [inlined], 1), (#html at none:0 [inlined], 1), (#respond_with_html#4 at Renderer.jl:69 [inlined], 1), (#respond_with_html at none:0 [inlined], 2), (billgatesbooks() at BooksController.jl:30, 1), (#invokelatest#1 at essentials.jl:742 [inlined], 1), (invokelatest at essentials.jl:741 [inlined], 1), (match_routes(::Request, ::Response, ::Nothing, ::Params{Any}) at Router.jl:471, 1), (route_request(::Request, ::Response, ::IPv4) at Router.jl:98, 1), (handle_request(::Request, ::Response, ::IPv4) at AppServer.jl:88, 1), (handle_request at AppServer.jl:87 [inlined], 1), (#12 at macros.jl:108 [inlined], 1), (run_work_thunk(::##12#15{Request,Response}, ::Bool) at process_messages.jl:56, 1), (#remotecall_fetch#148(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::LocalProcess) at remotecall.jl:364, 1), (remotecall_fetch(::Function, ::LocalProcess) at remotecall.jl:364, 1), (#remotecall_fetch#152(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at remotecall.jl:406, 1), (remotecall_fetch(::Function, ::Int64) at remotecall.jl:406, 1), (setup_http_handler(::Request, ::Response) at AppServer.jl:52, 1), (#2 at AppServer.jl:24 [inlined], 1), (handle at Handlers.jl:35 [inlined], 1), (#7 at Servers.jl:163 [inlined], 1), (handle_request(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:510, 1), (handle_stream(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:486, 1), ((::##55#56{Bool,##7#11{Server{http,HandlerFunction{##2#7}}},Transaction{TCPSocket},Stream{Request,Transaction{TCPSocket}}})() at task.jl:259, 1)]))
+2019-02-06 11:34:13:CRITICAL:Main:
+Stacktrace:
+ [1] #remotecall_fetch#148(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:365
+ [2] remotecall_fetch(::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:364
+ [3] #remotecall_fetch#152(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [4] remotecall_fetch(::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [5] setup_http_handler(::HTTP.Messages.Request, ::HTTP.Messages.Response) at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:52
+ [6] #2 at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:24 [inlined]
+ [7] handle at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Handlers.jl:35 [inlined]
+ [8] #7 at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:163 [inlined]
+ [9] handle_request(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:510
+ [10] handle_stream(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:486
+ [11] (::getfield(HTTP.Servers, Symbol("##55#56")){Bool,getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}},HTTP.ConnectionPool.Transaction{Sockets.TCPSocket},HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}})() at .\task.jl:259
+2019-02-06 11:34:13:CRITICAL:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:61
+2019-02-06 11:34:43:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:34:43:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:34:43:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:34:43:DEBUG:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    println(\"\$i\")\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 29\n    i += 1\nend]\""))
+2019-02-06 11:34:43:DEBUG:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Flax.jl:262
+2019-02-06 11:34:43:WARN:Main:Failed invoking controller
+2019-02-06 11:34:43:WARN:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    println(\"\$i\")\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 29\n    i += 1\nend]\""))
+2019-02-06 11:34:43:WARN:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Router.jl:479
+2019-02-06 11:34:43:CRITICAL:Main:Distributed.RemoteException(1, CapturedException(LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    println(\"\$i\")\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 29\n    i += 1\nend]\"")), Any[(include at boot.jl:326 [inlined], 1), (include_relative(::Module, ::String) at loading.jl:1038, 1), (include at sysimg.jl:29 [inlined], 1), (include at Flax.jl:4 [inlined], 1), (#_include_template#4(::Bool, ::String, ::Function, ::String) at Flax.jl:216, 1), (#_include_template at none:0 [inlined], 1), (macro expansion at util.jl:156 [inlined], 1), (#include_template#3(::Bool, ::String, ::Function, ::String) at Flax.jl:165, 1), (include_template at Flax.jl:163 [inlined], 1), (#render_html#5(::Pairs{Symbol,Array{Book,1},Tuple{Symbol},NamedTuple{(:books,),Tuple{Array{Book,1}}}}, ::Function, ::Symbol, ::Symbol, ::Symbol) at Flax.jl:257, 1), (#render_html at none:0 [inlined], 1), (#html#2 at Renderer.jl:56 [inlined], 1), (#html at none:0 [inlined], 1), (#respond_with_html#4 at Renderer.jl:69 [inlined], 1), (#respond_with_html at none:0 [inlined], 2), (billgatesbooks() at BooksController.jl:30, 1), (#invokelatest#1 at essentials.jl:742 [inlined], 1), (invokelatest at essentials.jl:741 [inlined], 1), (match_routes(::Request, ::Response, ::Nothing, ::Params{Any}) at Router.jl:471, 1), (route_request(::Request, ::Response, ::IPv4) at Router.jl:98, 1), (handle_request(::Request, ::Response, ::IPv4) at AppServer.jl:88, 1), (handle_request at AppServer.jl:87 [inlined], 1), (#12 at macros.jl:108 [inlined], 1), (run_work_thunk(::##12#15{Request,Response}, ::Bool) at process_messages.jl:56, 1), (#remotecall_fetch#148(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::LocalProcess) at remotecall.jl:364, 1), (remotecall_fetch(::Function, ::LocalProcess) at remotecall.jl:364, 1), (#remotecall_fetch#152(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at remotecall.jl:406, 1), (remotecall_fetch(::Function, ::Int64) at remotecall.jl:406, 1), (setup_http_handler(::Request, ::Response) at AppServer.jl:52, 1), (#2 at AppServer.jl:24 [inlined], 1), (handle at Handlers.jl:35 [inlined], 1), (#7 at Servers.jl:163 [inlined], 1), (handle_request(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:510, 1), (handle_stream(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:486, 1), ((::##55#56{Bool,##7#11{Server{http,HandlerFunction{##2#7}}},Transaction{TCPSocket},Stream{Request,Transaction{TCPSocket}}})() at task.jl:259, 1)]))
+2019-02-06 11:34:43:CRITICAL:Main:
+Stacktrace:
+ [1] #remotecall_fetch#148(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:365
+ [2] remotecall_fetch(::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:364
+ [3] #remotecall_fetch#152(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [4] remotecall_fetch(::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [5] setup_http_handler(::HTTP.Messages.Request, ::HTTP.Messages.Response) at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:52
+ [6] #2 at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:24 [inlined]
+ [7] handle at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Handlers.jl:35 [inlined]
+ [8] #7 at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:163 [inlined]
+ [9] handle_request(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:510
+ [10] handle_stream(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:486
+ [11] (::getfield(HTTP.Servers, Symbol("##55#56")){Bool,getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}},HTTP.ConnectionPool.Transaction{Sockets.TCPSocket},HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}})() at .\task.jl:259
+2019-02-06 11:34:43:CRITICAL:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:61
+2019-02-06 11:34:46:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:34:46:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:34:46:DEBUG:Main:[2019-02-06T11:34:46.575] -- :/bgbooks -- Done
+
+
+2019-02-06 11:34:49:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:34:49:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:34:49:DEBUG:Main:[2019-02-06T11:34:49.949] -- :/bgbooks -- Done
+
+
+2019-02-06 11:35:04:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:35:04:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:35:05:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:35:05:DEBUG:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    return \"\$i\"\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 29\n    i += 1\nend]\""))
+2019-02-06 11:35:05:DEBUG:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Flax.jl:262
+2019-02-06 11:35:05:WARN:Main:Failed invoking controller
+2019-02-06 11:35:05:WARN:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    return \"\$i\"\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 29\n    i += 1\nend]\""))
+2019-02-06 11:35:05:WARN:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Router.jl:479
+2019-02-06 11:35:05:CRITICAL:Main:Distributed.RemoteException(1, CapturedException(LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    return \"\$i\"\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 29\n    i += 1\nend]\"")), Any[(include at boot.jl:326 [inlined], 1), (include_relative(::Module, ::String) at loading.jl:1038, 1), (include at sysimg.jl:29 [inlined], 1), (include at Flax.jl:4 [inlined], 1), (#_include_template#4(::Bool, ::String, ::Function, ::String) at Flax.jl:216, 1), (#_include_template at none:0 [inlined], 1), (macro expansion at util.jl:156 [inlined], 1), (#include_template#3(::Bool, ::String, ::Function, ::String) at Flax.jl:165, 1), (include_template at Flax.jl:163 [inlined], 1), (#render_html#5(::Pairs{Symbol,Array{Book,1},Tuple{Symbol},NamedTuple{(:books,),Tuple{Array{Book,1}}}}, ::Function, ::Symbol, ::Symbol, ::Symbol) at Flax.jl:257, 1), (#render_html at none:0 [inlined], 1), (#html#2 at Renderer.jl:56 [inlined], 1), (#html at none:0 [inlined], 1), (#respond_with_html#4 at Renderer.jl:69 [inlined], 1), (#respond_with_html at none:0 [inlined], 2), (billgatesbooks() at BooksController.jl:30, 1), (#invokelatest#1 at essentials.jl:742 [inlined], 1), (invokelatest at essentials.jl:741 [inlined], 1), (match_routes(::Request, ::Response, ::Nothing, ::Params{Any}) at Router.jl:471, 1), (route_request(::Request, ::Response, ::IPv4) at Router.jl:98, 1), (handle_request(::Request, ::Response, ::IPv4) at AppServer.jl:88, 1), (handle_request at AppServer.jl:87 [inlined], 1), (#12 at macros.jl:108 [inlined], 1), (run_work_thunk(::##12#15{Request,Response}, ::Bool) at process_messages.jl:56, 1), (#remotecall_fetch#148(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::LocalProcess) at remotecall.jl:364, 1), (remotecall_fetch(::Function, ::LocalProcess) at remotecall.jl:364, 1), (#remotecall_fetch#152(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at remotecall.jl:406, 1), (remotecall_fetch(::Function, ::Int64) at remotecall.jl:406, 1), (setup_http_handler(::Request, ::Response) at AppServer.jl:52, 1), (#2 at AppServer.jl:24 [inlined], 1), (handle at Handlers.jl:35 [inlined], 1), (#7 at Servers.jl:163 [inlined], 1), (handle_request(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:510, 1), (handle_stream(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:486, 1), ((::##55#56{Bool,##7#11{Server{http,HandlerFunction{##2#7}}},Transaction{TCPSocket},Stream{Request,Transaction{TCPSocket}}})() at task.jl:259, 1)]))
+2019-02-06 11:35:05:CRITICAL:Main:
+Stacktrace:
+ [1] #remotecall_fetch#148(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:365
+ [2] remotecall_fetch(::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:364
+ [3] #remotecall_fetch#152(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [4] remotecall_fetch(::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [5] setup_http_handler(::HTTP.Messages.Request, ::HTTP.Messages.Response) at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:52
+ [6] #2 at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:24 [inlined]
+ [7] handle at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Handlers.jl:35 [inlined]
+ [8] #7 at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:163 [inlined]
+ [9] handle_request(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:510
+ [10] handle_stream(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:486
+ [11] (::getfield(HTTP.Servers, Symbol("##55#56")){Bool,getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}},HTTP.ConnectionPool.Transaction{Sockets.TCPSocket},HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}})() at .\task.jl:259
+2019-02-06 11:35:05:CRITICAL:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:61
+2019-02-06 11:35:08:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:35:08:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:35:08:DEBUG:Main:[2019-02-06T11:35:08.609] -- :/bgbooks -- Done
+
+
+2019-02-06 11:35:52:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:35:52:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:35:52:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:35:52:DEBUG:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 27\n    return \"\$i\"\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    i += 1\nend]\""))
+2019-02-06 11:35:52:DEBUG:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Flax.jl:262
+2019-02-06 11:35:52:WARN:Main:Failed invoking controller
+2019-02-06 11:35:52:WARN:Main:LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 27\n    return \"\$i\"\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    i += 1\nend]\""))
+2019-02-06 11:35:52:WARN:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\Router.jl:479
+2019-02-06 11:35:53:CRITICAL:Main:Distributed.RemoteException(1, CapturedException(LoadError("C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl", 3, ErrorException("syntax: misplaced assignment statement in \"[i = 1; while (i <= 10)\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 27\n    return \"\$i\"\n    # C:\\Users\\ill_f\\Documents\\GitHub\\PEN-Genie\\PEN_Cat_Website\\build\\FlaxViews\\0dc784b68f36cac6232bbdd717ed47151e48a967.jl, line 28\n    i += 1\nend]\"")), Any[(include at boot.jl:326 [inlined], 1), (include_relative(::Module, ::String) at loading.jl:1038, 1), (include at sysimg.jl:29 [inlined], 1), (include at Flax.jl:4 [inlined], 1), (#_include_template#4(::Bool, ::String, ::Function, ::String) at Flax.jl:216, 1), (#_include_template at none:0 [inlined], 1), (macro expansion at util.jl:156 [inlined], 1), (#include_template#3(::Bool, ::String, ::Function, ::String) at Flax.jl:165, 1), (include_template at Flax.jl:163 [inlined], 1), (#render_html#5(::Pairs{Symbol,Array{Book,1},Tuple{Symbol},NamedTuple{(:books,),Tuple{Array{Book,1}}}}, ::Function, ::Symbol, ::Symbol, ::Symbol) at Flax.jl:257, 1), (#render_html at none:0 [inlined], 1), (#html#2 at Renderer.jl:56 [inlined], 1), (#html at none:0 [inlined], 1), (#respond_with_html#4 at Renderer.jl:69 [inlined], 1), (#respond_with_html at none:0 [inlined], 2), (billgatesbooks() at BooksController.jl:30, 1), (#invokelatest#1 at essentials.jl:742 [inlined], 1), (invokelatest at essentials.jl:741 [inlined], 1), (match_routes(::Request, ::Response, ::Nothing, ::Params{Any}) at Router.jl:471, 1), (route_request(::Request, ::Response, ::IPv4) at Router.jl:98, 1), (handle_request(::Request, ::Response, ::IPv4) at AppServer.jl:88, 1), (handle_request at AppServer.jl:87 [inlined], 1), (#12 at macros.jl:108 [inlined], 1), (run_work_thunk(::##12#15{Request,Response}, ::Bool) at process_messages.jl:56, 1), (#remotecall_fetch#148(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::LocalProcess) at remotecall.jl:364, 1), (remotecall_fetch(::Function, ::LocalProcess) at remotecall.jl:364, 1), (#remotecall_fetch#152(::Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at remotecall.jl:406, 1), (remotecall_fetch(::Function, ::Int64) at remotecall.jl:406, 1), (setup_http_handler(::Request, ::Response) at AppServer.jl:52, 1), (#2 at AppServer.jl:24 [inlined], 1), (handle at Handlers.jl:35 [inlined], 1), (#7 at Servers.jl:163 [inlined], 1), (handle_request(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:510, 1), (handle_stream(::##7#11{Server{http,HandlerFunction{##2#7}}}, ::Stream{Request,Transaction{TCPSocket}}) at Servers.jl:486, 1), ((::##55#56{Bool,##7#11{Server{http,HandlerFunction{##2#7}}},Transaction{TCPSocket},Stream{Request,Transaction{TCPSocket}}})() at task.jl:259, 1)]))
+2019-02-06 11:35:53:CRITICAL:Main:
+Stacktrace:
+ [1] #remotecall_fetch#148(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:365
+ [2] remotecall_fetch(::Function, ::Distributed.LocalProcess) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:364
+ [3] #remotecall_fetch#152(::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}, ::Function, ::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [4] remotecall_fetch(::Function, ::Int64) at C:\cygwin\home\Administrator\buildbot\worker\package_win64\build\usr\share\julia\stdlib\v1.1\Distributed\src\remotecall.jl:406
+ [5] setup_http_handler(::HTTP.Messages.Request, ::HTTP.Messages.Response) at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:52
+ [6] #2 at C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:24 [inlined]
+ [7] handle at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Handlers.jl:35 [inlined]
+ [8] #7 at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:163 [inlined]
+ [9] handle_request(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:510
+ [10] handle_stream(::getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}}, ::HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}) at C:\Users\ill_f\.julia\packages\HTTP\YjRCz\src\Servers.jl:486
+ [11] (::getfield(HTTP.Servers, Symbol("##55#56")){Bool,getfield(HTTP.Servers, Symbol("##7#11")){HTTP.Servers.Server{HTTP.Servers.http,HTTP.Handlers.HandlerFunction{getfield(Genie.AppServer, Symbol("##2#7"))}}},HTTP.ConnectionPool.Transaction{Sockets.TCPSocket},HTTP.Streams.Stream{HTTP.Messages.Request,HTTP.ConnectionPool.Transaction{Sockets.TCPSocket}}})() at .\task.jl:259
+2019-02-06 11:35:53:CRITICAL:Main:C:\Users\ill_f\.julia\packages\Genie\MBZA6\src\AppServer.jl:61
+2019-02-06 11:35:55:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:35:55:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:35:55:DEBUG:Main:[2019-02-06T11:35:55.326] -- :/bgbooks -- Done
+
+
+2019-02-06 11:36:07:DEBUG:Main:Including app\resources\books\views\billgatesbooks
+2019-02-06 11:36:07:DEBUG:Main:🚨  Flax view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html build build\FlaxViews\0dc784b68f36cac6232bbdd717ed47151e48a967.jl is stale
+2019-02-06 11:36:07:DEBUG:Main:Building view C:\Users\ill_f\Documents\GitHub\PEN-Genie\PEN_Cat_Website\app\resources\books\views\billgatesbooks.jl.html
+2019-02-06 11:36:08:DEBUG:Main:Including app\layouts\app
+2019-02-06 11:36:08:DEBUG:Main:[2019-02-06T11:36:08.46] -- :/bgbooks -- Done
+
+
