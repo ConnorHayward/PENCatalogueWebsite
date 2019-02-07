@@ -1,6 +1,14 @@
 <!-- home_page.jl.html -->
 <h1>Place Holder Home Page</h1>
 
+
+<h3> Current Voltage: $(@vars(:voltage))</h3>
+<form class="" action="$(Genie.Router.link_to(:set_values))" method="POST">
+  <input type="text" name="pmt_voltage" placeholder="Target Voltage" /><br />
+  <input type="text" name="pmt_speed" placeholder="Ramp Speed" /><br />
+  <input type="submit" value="Set Values" />
+</form>
+
 <div class="">
   <a href="http://localhost:8000/bgbooks">Books</a>
 </div>
